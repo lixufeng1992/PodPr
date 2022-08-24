@@ -8,5 +8,5 @@ target 'PodPr' do
   use_frameworks!
 
   # Pods for PodPr
-  pod 'MyLXFCode', '1.0.2'
+  pod 'MyLXFCode', '1.1.0'
 end

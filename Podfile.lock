@@ -14,25 +14,21 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - JSONKit (1.4)
-  - MyLXFCode (1.0.2):
+  - MyLXFCode (1.1.0):
     - AFNetworking
-    - JSONKit (~> 1.4)
 
 DEPENDENCIES:
-  - MyLXFCode (= 1.0.2)
+  - MyLXFCode (= 1.1.0)
 
 SPEC REPOS:
   trunk:
     - AFNetworking
-    - JSONKit
     - MyLXFCode
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
-  MyLXFCode: b5985919564df9e853b550637320f8c289d3d047
+  MyLXFCode: c15352367fe2fea97cc3404085defd69a1e87c65
 
-PODFILE CHECKSUM: 0f2c69b4161921642d76e6051bbe40cee696b005
+PODFILE CHECKSUM: 111d0e71d9dbb939d5090213597bc2b9233f092b
 
 COCOAPODS: 1.10.1
